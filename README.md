@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Jonathan Luzuriaga 👋
 
-<!--
-**LuzuJ/LuzuJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en JavaScript, TypeScript y Python. Me apasiona crear herramientas útiles, aplicaciones desde cero, modelos de Ia y el análisis de datos e información.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **Gastos_Hormigas**, **Ancla y brújula** y mejora de sistemas de IA.
+- 🌱 Aprendiendo: Prompt engineering, Azure y node
+- 📫 Contáctame: jonaluzu1@gmail.com o https://www.linkedin.com/in/jonathan-luzuriaga-5b79a3275/
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

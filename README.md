@@ -3,7 +3,7 @@
 Soy **Full-Stack Data Scientist** y Desarrollador. Me especializo en conectar el análisis de datos con el desarrollo de aplicaciones web funcionales.
 
 - 🔭 **Proyectos actuales:**
-  - **[Gastos_Hormigas](LINK_AL_REPO)**: Gestión de finanzas personales.
+  - **[Gastos_Hormigas]([LINK_AL_REPO](https://github.com/LuzuJ/Gastos_Hormigas))**: Gestión de finanzas personales.
   - **Ancla y Brújula**: App móvil para mindfulness y manejo de estrés.
   - **AgroCacao AI / Agro-Healthy**: Soluciones de IA para el sector agrícola.
 

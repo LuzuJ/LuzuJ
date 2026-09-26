@@ -18,4 +18,4 @@ Especializado en el diseño de arquitecturas distribuidas, despliegue en entorno
 
 ---
 **Contacto y Enlaces:**
-[LinkedIn](https://www.linkedin.com/in/jonathan-luzuriaga/) | [jonaluzu1@gmail.com](mailto:jonaluzu1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jonathan-luzuriaga/) | [Portafolio](https://luzuj.github.io/) | [jonaluzu1@gmail.com](mailto:jonaluzu1@gmail.com) 
